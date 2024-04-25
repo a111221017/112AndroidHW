@@ -1,5 +1,5 @@
 package com.example.buytrick
-
+//a111221017
 import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
